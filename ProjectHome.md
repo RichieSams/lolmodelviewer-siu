@@ -1,0 +1,1 @@
+This is a modification of the original LoL Model Viewer (http://code.google.com/p/lolmodelviewer/) to allow more efficient data passing between itself and Skin Installer Ultimate v4 and to allow SIU easier use the file reading functions LoL Model Viewer has.
